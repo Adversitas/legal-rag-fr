@@ -1,0 +1,33 @@
+{"id": "man000", "question": "Je veux quitter mon CDI, je dois prévenir mon patron combien de temps à l'avance ?", "relevant_docs": ["F2883"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man001", "question": "Mon patron peut-il me refuser mes vacances en août ?", "relevant_docs": ["F12803", "F2258"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man002", "question": "On me propose de partir d'un commun accord, comment est calculée l'indemnité ?", "relevant_docs": ["F31539", "F19030"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man003", "question": "Je quitte mon appart, combien de temps mon proprio a pour me rendre ma caution ?", "relevant_docs": ["F31269"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man004", "question": "Est-ce que je peux utiliser ma caution pour payer mon dernier mois de loyer ?", "relevant_docs": ["F31629"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man005", "question": "J'habite à Lyon, pour rendre mon logement je dois donner 1 mois ou 3 mois de préavis ?", "relevant_docs": ["F1168", "F32360"], "reference": "", "kind": "situational", "source": "manual"}
+{"id": "man006", "question": "Je suis en arrêt maladie, j'ai le droit de sortir de chez moi ?", "relevant_docs": ["F12415"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man007", "question": "Je suis étudiant, est-ce que je peux toucher les APL ?", "relevant_docs": ["F1563", "F12006"], "reference": "", "kind": "situational", "source": "manual"}
+{"id": "man008", "question": "Au bout de combien de temps on récupère ses points de permis ?", "relevant_docs": ["F1685"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man009", "question": "Est-ce qu'on perd des points sur son permis si on grille un feu rouge à vélo ?", "relevant_docs": ["F20443"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man010", "question": "J'ai perdu ma carte d'identité, comment je la refais ?", "relevant_docs": ["F1344"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man011", "question": "Comment on fait pour se pacser ?", "relevant_docs": ["F1618"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man012", "question": "Mariage ou pacs, concrètement c'est quoi la différence ?", "relevant_docs": ["F14485"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man013", "question": "Quelle est la procédure pour divorcer à l'amiable ?", "relevant_docs": ["F10567"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man014", "question": "Comment obtenir un extrait de mon casier judiciaire ?", "relevant_docs": ["F1420"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man015", "question": "Je viens d'acheter une voiture d'occasion, comment je fais la carte grise ?", "relevant_docs": ["F1050"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man016", "question": "Je suis tombé malade pendant ma période d'essai, mon employeur peut-il me virer ?", "relevant_docs": ["F317"], "reference": "", "kind": "situational", "source": "manual"}
+{"id": "man017", "question": "Combien de temps dure la période d'essai en CDI pour un cadre ?", "relevant_docs": ["F1643"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man018", "question": "J'ai démissionné sur un coup de tête, est-ce que je peux revenir en arrière ?", "relevant_docs": ["F131"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man019", "question": "Je suis enceinte, est-ce que je peux démissionner sans faire de préavis ?", "relevant_docs": ["F1730"], "reference": "", "kind": "situational", "source": "manual"}
+{"id": "man020", "question": "Mon employeur m'appelle pendant mes vacances pour que je revienne, il a le droit ?", "relevant_docs": ["F12791"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man021", "question": "Les cotisations syndicales donnent-elles droit à une réduction d'impôt ?", "relevant_docs": ["F1"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man022", "question": "Pour une demande de naturalisation, quels justificatifs de revenus faut-il fournir ?", "relevant_docs": ["F34746"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "man023", "question": "Je pars en vacances aux États-Unis, il me faut un visa ?", "relevant_docs": ["F14079"], "reference": "", "kind": "situational", "source": "manual"}
+{"id": "man024", "question": "Est-ce qu'on peut toucher la prime d'activité en habitant hors de France ?", "relevant_docs": ["F994"], "reference": "", "kind": "factual", "source": "manual"}
+{"id": "out000", "question": "Quel est le salaire minimum en Belgique ?", "relevant_docs": [], "reference": "", "kind": "unanswerable", "source": "manual"}
+{"id": "out001", "question": "Quelle est la meilleure assurance vie à souscrire cette année ?", "relevant_docs": [], "reference": "", "kind": "unanswerable", "source": "manual"}
+{"id": "out002", "question": "Comment configurer le Wi-Fi sur ma box internet ?", "relevant_docs": [], "reference": "", "kind": "unanswerable", "source": "manual"}
+{"id": "out003", "question": "Quel est le taux d'impôt sur les sociétés au Luxembourg ?", "relevant_docs": [], "reference": "", "kind": "unanswerable", "source": "manual"}
+{"id": "out004", "question": "Qui a gagné le prix Nobel de littérature en 2020 ?", "relevant_docs": [], "reference": "", "kind": "unanswerable", "source": "manual"}
+{"id": "out005", "question": "Combien coûte un billet de TGV Paris-Lyon ?", "relevant_docs": [], "reference": "", "kind": "unanswerable", "source": "manual"}
+{"id": "out006", "question": "Quelle est la recette de la blanquette de veau ?", "relevant_docs": [], "reference": "", "kind": "unanswerable", "source": "manual"}
+{"id": "out007", "question": "Comment un résident suisse obtient-il son permis de conduire en Suisse ?", "relevant_docs": [], "reference": "", "kind": "unanswerable", "source": "manual"}

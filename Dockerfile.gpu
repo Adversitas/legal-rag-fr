@@ -1,0 +1,15 @@
+# GPU image for the heavy jobs (embedding the corpus, reranking, retrieval evals).
+# The project directory is mounted at /app at run time, so code edits need no rebuild:
+#   docker build -f Dockerfile.gpu -t legal-rag-fr:gpu .
+#   docker run --rm --gpus all -v .:/app -v hf-cache:/root/.cache/huggingface legal-rag-fr:gpu legalrag build-index
+FROM pytorch/pytorch:2.5.1-cuda12.4-cudnn9-runtime
+
+WORKDIR /app
+COPY pyproject.toml README.md ./
+COPY src ./src
+# torch is already in the base image, so this only adds transformers and the app's own deps
+RUN pip install --no-cache-dir -e ".[ml,dev]"
+
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONIOENCODING=utf-8
+CMD ["legalrag", "--help"]

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Publication xmlns:dc="http://purl.org/dc/elements/1.1/" ID="F0001" type="Fiche d'information conditionnée" spUrl="https://www.service-public.gouv.fr/particuliers/vosdroits/F0001">
+  <dc:title>Préavis de démission d'un salarié du secteur privé</dc:title>
+  <dc:description>Le salarié qui démissionne doit en principe respecter un préavis.</dc:description>
+  <Audience>Particuliers</Audience>
+  <FilDAriane>
+    <Niveau ID="Particuliers">Accueil particuliers</Niveau>
+    <Niveau ID="N19806">Travail - Formation</Niveau>
+    <Niveau ID="N24">Démission</Niveau>
+    <Niveau ID="F0001">Préavis de démission d'un salarié du secteur privé</Niveau>
+  </FilDAriane>
+  <DossierPere ID="N24"><Titre>Ne doit pas apparaître (navigation)</Titre></DossierPere>
+  <Introduction>
+    <Texte><Paragraphe>Le préavis commence le jour où l'employeur reçoit la démission.</Paragraphe></Texte>
+  </Introduction>
+  <ListeSituations>
+    <Situation>
+      <Titre>Salarié en CDI</Titre>
+      <Texte>
+        <Chapitre>
+          <Titre><Paragraphe>Quelle est la durée du préavis ?</Paragraphe></Titre>
+          <Paragraphe>La durée est fixée par la convention collective ou le contrat.</Paragraphe>
+          <BlocCas>
+            <Cas>
+              <Titre>Employé</Titre>
+              <Paragraphe>Le préavis est souvent d'<MiseEnEvidence>1 mois</MiseEnEvidence>.</Paragraphe>
+            </Cas>
+            <Cas>
+              <Titre>Cadre</Titre>
+              <Paragraphe>Le préavis est souvent de 3 mois.</Paragraphe>
+              <ServiceEnLigne ID="R1" type="Simulateur"><Titre>Ne doit pas apparaître (service)</Titre></ServiceEnLigne>
+            </Cas>
+          </BlocCas>
+          <Attention>
+            <Titre>Attention</Titre>
+            <Paragraphe>Un préavis non effectué peut donner lieu à une indemnité.</Paragraphe>
+          </Attention>
+          <Liste type="puce">
+            <Item><Paragraphe>Premier point de liste.</Paragraphe></Item>
+          </Liste>
+          <Tableau>
+            <Rangée type="header"><Cellule><Paragraphe>Ancienneté</Paragraphe></Cellule><Cellule><Paragraphe>Préavis</Paragraphe></Cellule></Rangée>
+            <Rangée type="normal"><Cellule><Paragraphe>Moins de 6 mois</Paragraphe></Cellule><Cellule><Paragraphe>1 semaine</Paragraphe></Cellule></Rangée>
+          </Tableau>
+        </Chapitre>
+      </Texte>
+    </Situation>
+    <Situation>
+      <Titre>Salarié en CDD</Titre>
+      <Texte>
+        <Chapitre>
+          <Titre><Paragraphe>Peut-on démissionner ?</Paragraphe></Titre>
+          <Paragraphe>Un CDD ne peut en principe pas être rompu par démission.</Paragraphe>
+        </Chapitre>
+      </Texte>
+    </Situation>
+  </ListeSituations>
+</Publication>
